@@ -38,7 +38,7 @@
       </dict>
     </config-file>
     <source-file src="src/ios/AdobeAuthCredentials.m"/>
-    <resource-file src="src/ios/AdobeCreativeSDKFrameworks/AdobeCreativeSDKCore.framework/Versions/A/Resources/AdobeCreativeSDKCoreResources.bundle"/>
+    <resource-file src="src/ios/AdobeCreativeSDKFrameworks/AdobeCreativeSDKCore.framework/AdobeCreativeSDKCoreResources.bundle"/>
     <framework src="src/ios/AdobeCreativeSDKFrameworks/AdobeCreativeSDKCore.framework" custom="true"/>
     <framework src="CoreMotion.framework" weak="true"/>
     <framework src="CoreBluetooth.framework" weak="true"/>
